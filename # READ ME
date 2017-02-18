@@ -1,0 +1,5 @@
+# READ ME
+
+A simple word counter program, this will work for a small file.
+
+But for huge files best thing would be to have is applying probabilistic hashing algorithm. (Planning on bloom filters and min-coutn sketch algorithms)
